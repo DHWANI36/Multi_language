@@ -1,0 +1,9 @@
+<resources>
+
+    <string name="welcome">સ્વાગેટ</string>
+    <string name="email">ઈ - મેઈલ સરનામું</string>
+    <string name="password">પાસવર્ડ</string>
+    <string name="login">લૉગિન</string>
+    <string name="signup">શું એકાઉન્ટ નથી? સાઇન અપ કરો</string>
+
+</resources>
